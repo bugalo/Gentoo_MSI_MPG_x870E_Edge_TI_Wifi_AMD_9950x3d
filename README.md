@@ -1,1 +1,1 @@
-# MSI_MPG_x870E_Edge_TI_Wifi_AMD_9950x3d
+# Gentoo_MSI_MPG_x870E_Edge_TI_Wifi_AMD_9950x3d
